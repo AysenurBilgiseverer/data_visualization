@@ -1,5 +1,5 @@
 # data_visualization
-## The Effects of COVID-19 on Students
+## Effects of COVID-19 on Students
 
 COVID-19 has changed the way we live, our daily life and our habits. We have been trying to adapt to our new lifestyle for about 14-15 months. I think that the group that felt and experienced this change the most was the students and the educators. My goal is to visualize data such as how much time they spend in online education, which tool they attend online classes, how many hours they sleep, and in this way present their situation clearly.
 

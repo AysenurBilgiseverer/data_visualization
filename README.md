@@ -8,4 +8,4 @@ The dataset named "COVID-19 and its Impact on Students" taken from Kaggle and sh
 
 https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students
 
-In this project, it is planned to visualize 6 selected question answers of 250 students. There are 1500 data.
+In this project, it is planned to visualize 6 selected question answers of 1195 students. There are nearly 7200 data.

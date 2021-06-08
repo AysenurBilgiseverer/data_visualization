@@ -9,3 +9,5 @@ The dataset named "COVID-19 and its Impact on Students" taken from Kaggle and sh
 https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students
 
 In this project, it is planned to visualize 6 selected question answers of 1195 students. There are nearly 7200 data.
+### Graphs Creation
+Charts were created with Excel and DataWrapper. Pviot table was used in Excel and then Pviot Charts were created.

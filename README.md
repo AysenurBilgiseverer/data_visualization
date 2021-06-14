@@ -18,5 +18,6 @@ According to the statements of the United Nations Educational, Scientific and Cu
 In the news quoted by VOA News (2020), UNESCO Director-General Andrey Azoulayals said that unplanned school closures will cause problems for students, families, educators and society. In addition, it was stated that the academic interests and performances of the students would be affected. He stated that if students are not engaged effectively, it will cause laziness to be associated with young people committing crimes, loss of interest in learning, and poor academic performance. It disorganizes life away from school and leads people to live unplanned, and as a result, it causes concentration problems and a decrease in interest in learning and working.
 
 "Onyema, E. M., et all., (2020), impact of coronavirus pandemic on education. Journal of Education and Practice, 11,13. 108-121."
+
 "UNESCO: 290 Million Students Stay Home due to Coronavirus. (2020, March 7). Retrieved June, 2021, from learningenglish.voanews website: https://learningenglish.voanews.com/a/unesco-290-million-students-stayhome-due-to-coronavirus/5317148.html"
 

@@ -35,6 +35,6 @@ To summarize, there have been many changes in our lives with the COVID-19 pandem
 
 ### PRESENTATION LINK
 
-( https://drive.google.com/file/d/1cq3AFiewFadrKmK3RORXDoZp-9iTI06f/view?usp=sharing )
+You can access my presentation with link[](https://drive.google.com/file/d/1cq3AFiewFadrKmK3RORXDoZp-9iTI06f/view?usp=sharing)
 
 

@@ -33,8 +33,8 @@ Tankovka, H.“Social media used by U.S. adults during COVID-19 pandemic 2020”
 
 To summarize, there have been many changes in our lives with the COVID-19 pandemic. We are spending more time in our homes than ever before. There was uncertainty in our lives with an unfamiliar order. We have been continuing our school life, which we took a 3-week break, from a distance for about a year and a half. Despite all the negativities, with this study, I visualized the data on which activities the students spent time on during this period, the changes in their weight, their distance education experiences, which medium they attended, the social media platforms they used, and finally the data on which they responded to stress relievers.
 
-###PRESENTATION LINK
+### PRESENTATION LINK
 
-(https://drive.google.com/file/d/1cq3AFiewFadrKmK3RORXDoZp-9iTI06f/view?usp=sharing)
+( https://drive.google.com/file/d/1cq3AFiewFadrKmK3RORXDoZp-9iTI06f/view?usp=sharing )
 
 
